@@ -1,3 +1,7 @@
+The QDOS Companion, written by Andrew Penell, December 1984
+
+ISBN 0-946408-69-6
+
 If you want to program in machine code on the Sinclair QL,
 then The Sinclair QDOS Companion will enable you to get
 to grips with QDOS, the large and powerful operating
@@ -13,5 +17,3 @@ Andrew Pennell also describes the use of the 8049 second
 processor to control the ancillary functions, such as sound and the keyboard. The book covers methods of controlling the second processor without QDOS, which is sometimes necessary.
 
 Andrew Pennell is a university student and freelance Ce and author of Assembly Language programming for the Sinclair QL. He also contributes to several magazines, including Popular Computing Weekly, and has written software for a number of companies, including Sinclair Research.
-
-ISBN O-946408-649-6
