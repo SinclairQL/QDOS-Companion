@@ -16,4 +16,4 @@ detailed coverage of this capability is given, with emphasis on how to use it mo
 Andrew Pennell also describes the use of the 8049 second
 processor to control the ancillary functions, such as sound and the keyboard. The book covers methods of controlling the second processor without QDOS, which is sometimes necessary.
 
-Andrew Pennell is a university student and freelance Ce and author of Assembly Language programming for the Sinclair QL. He also contributes to several magazines, including Popular Computing Weekly, and has written software for a number of companies, including Sinclair Research.
+Andrew Pennell is a university student and freelance programmer and author of Assembly Language programming for the Sinclair QL. He also contributes to several magazines, including Popular Computing Weekly, and has written software for a number of companies, including Sinclair Research.
