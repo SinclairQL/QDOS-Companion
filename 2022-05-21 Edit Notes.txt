@@ -1,0 +1,29 @@
+Corrections made to QDOS_Companion.odt of 20-05-2022 by pjw
+
+p3:
+PC.MCTRL = PC_MCTRL = 18020 (not 18021)
+PC.INTR  = PC_INTR  = 18021 (not 18022)
+PC.TPDATA = PC_TDATA
+Changed all these mnemonics to PP_NNNN throughout the book
+
+p5 System variables: Added note about using offsets rather than fixed
+addresses.
+
+p6 Removed nonsense about not using prefixes in mnemonic names.
+
+
+p164, first line of last example:
+
+MOVEQ #1,D1 this many bytes wanted
+
+should be:
+
+MOVEQ #6,D1 this many bytes wanted
+
+Throughout:
+
+By convention, offset and address mnemonics should be of the form PP_NNNN,
+while values should be of the form PP.VVVV. Sub-values, like bit numbers
+should be of the form PP..VVVV. None of this is followed in this book and I
+find it too much trouble to alter that. I think this book has had its day
+and is only of use as a historical relic.
